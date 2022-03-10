@@ -1,0 +1,13 @@
+/* h1{
+    background-color: blue;
+}
+.description{
+    color: white;
+} */
+body{
+    background-color: black;
+    color: white;
+}
+#date-of-birth{
+    /* width: 20px; */
+}
